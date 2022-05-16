@@ -18,6 +18,14 @@ I think we are all pine trees in a dense forest. Although sometimes the night is
 Welcome to schuwald and listen to my sound.
 
 
+
+
+
+
+
+
+
+
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
