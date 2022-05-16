@@ -1,30 +1,22 @@
 ---
 layout: post
-title:  "Schuwald"
+title:  "Welcome to schuwald"
 date:   2022-05-16 17:19:11 +0800
 ---
 
 
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+It took me two days to build this blog with Jekyll, but less than two minutes for the name: schu-wald. Schu simply stands for me, because the pronunciation of schu in German is the same as a word in my name, and also the same as the pronunciation of tree in Chinese. German word Wald means forest. Me-Forest and Tree-Forest are exactly what schuwald means. 
 
-Jekyll requires blog post files to be named according to the following format:
+I have to admit, it’s not a funny pun. I can even see someone groaning in front of the computer screen now. Sorry guys, but I just love the imagery so much and I believe it could goes back to a passage I read as a child in A Sand County Almanac:
 
-`YEAR-MONTH-DAY-title.MARKUP`
+…It is in midwinter that I sometimes glean from my pines something more important than woodlot politics, and the news of the wind and weather. This is especially likely to happen on some gloomy evening when the snow has buried all irrelevant detail, and the hush of elemental sadness lies heavy upon every living thing. Nevertheless, my pines, each with his burden of snow, are standing ramrod-straight, rank upon rank, and in the dusk beyond I sense the presence of hundreds more. At such times I feel a curious transfusion of courage…
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+I think we are all pine trees in a dense forest. Although sometimes the night is so dark that we can't even see each other's silhouettes, whenever there is wind, there is a rustling sound. That’s a way of symbiosis. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Welcome to schuwald and listen to my sound.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
