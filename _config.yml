@@ -20,7 +20,8 @@
 
 title: Schuwald
 email: schu2019@hotmail.com
-description: >- Sed alia tempora
+description: >
+  Sed alia tempora
 baseurl: "sw_blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Sonia Schu
