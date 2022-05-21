@@ -1,5 +1,5 @@
 ---
-## title: 【POT】【TF】理想三旬
+title: 【POT】【TF】理想三旬
 date: 2020-10-26
 author: 森森
 categories: "Story"
