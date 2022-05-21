@@ -1,8 +1,7 @@
 ---
-title: <span style="color:darkgreen">【POT】【TF】理想三旬</span>
+title: 【POT】【TF】理想三旬
 date: 2020-10-26
-author:
-  name: 森森
+author: 森森
 categories: "Story"
 tags: "同人"
 ---
