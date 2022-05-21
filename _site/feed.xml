@@ -1,0 +1,235 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/sw_blog/</id>
+  <title>Schuwald</title>
+  <subtitle>All about my faith.
+</subtitle>
+  <updated>2022-05-21T14:18:56+08:00</updated>
+  <author>
+    <name>Schuwald</name>
+    <uri>http://localhost:4000/sw_blog/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/sw_blog/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/sw_blog/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator>
+  <rights> © 2022 Schuwald </rights>
+  <icon>/sw_blog/assets/img/favicons/favicon.ico</icon>
+  <logo>/sw_blog/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title><span style="color:darkgreen">【原创】轮舞</span></title>
+    <link href="http://localhost:4000/sw_blog/posts/%E8%BD%AE%E8%88%9E-%E4%B8%80-.extension/" rel="alternate" type="text/html" title="<span style="color:darkgreen">【原创】轮舞</span>" />
+    <published>2022-05-17T00:00:00+08:00</published>
+  
+    <updated>2022-05-17T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/sw_blog/posts/%E8%BD%AE%E8%88%9E-%E4%B8%80-.extension/</id>
+    <content src="http://localhost:4000/sw_blog/posts/%E8%BD%AE%E8%88%9E-%E4%B8%80-.extension/" />
+    <author>
+      <name>{"name"=>"Bohnen"}</name>
+    </author>
+
+  
+    
+    <category term="Story" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+1968年，巴黎，错位的革命者。
+
+第一章
+
+“……联邦最高行政法院的宣判，结束了这场长达三年、涉及多方势力的诉讼。从今日起，柯霍街正式更名为杜契克街，以纪念他为68运动作出的贡献！”*1
+
+正费力地蹲着身子往食盆里撒猫粮的康拉德听到这句话，不禁抬头看了眼电视。在他过去的印象中，这位女主持播报新闻的声音有如无机质一般冷硬，但他方才分明听出了一丝感叹的意味。
+
+然而那位女主持已经恢复了平素的状态，面无表情地播报着下一条新闻。他没有在意，走过去关掉电视，准备出门散步。
+
+今天的克罗伊茨贝格区格外热闹，到处都是吵吵嚷嚷的年轻学生。人们相互问候的方式都不同了，大家不再谈论柏林四月的无常天气，取而代之的是可以称之为欢呼的：“欢迎来到杜契克街！”
+
+康拉德才走了几十米，就已经遇到三个这么和他打招呼的年轻人了。那些人也不在乎他是什么反应，说完就喜气洋洋地奔向下一个人。他甚至听到了喊破音的激进口号...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title><span style="color:darkgreen">Philosophie - Allgemeinbildung oder antiquiertes Luxusgut</span></title>
+    <link href="http://localhost:4000/sw_blog/posts/Philosophie-Allgemeinbildung-oder-antiquiertes-Luxusgut.extension/" rel="alternate" type="text/html" title="<span style="color:darkgreen">Philosophie - Allgemeinbildung oder antiquiertes Luxusgut</span>" />
+    <published>2022-05-17T00:00:00+08:00</published>
+  
+    <updated>2022-05-17T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/sw_blog/posts/Philosophie-Allgemeinbildung-oder-antiquiertes-Luxusgut.extension/</id>
+    <content src="http://localhost:4000/sw_blog/posts/Philosophie-Allgemeinbildung-oder-antiquiertes-Luxusgut.extension/" />
+    <author>
+      <name>Schuwald</name>
+    </author>
+
+  
+    
+    <category term="Essay" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Ihr Artikel zum Thema „Philosophie – Allgemeinbildung oder antiquiertes Luxusgut“ ist bei mir auf großes Interesse gestoßen. Deswegen würde ich gerne meine Meinung zur einigen Aussagen Ihres Artikels mitteilen.
+
+Ich stimme mit Ihnen völlig überein, dass keine andere Disziplin älter als Philosophie ist. Wenn man einen Überblick über die Philosophiegeschichte macht, kann man den gewichtigen Beitr...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title><span style="color:darkgreen"> Welcome to schuland</span></title>
+    <link href="http://localhost:4000/sw_blog/posts/welcome-to-jekyll.extension/" rel="alternate" type="text/html" title="<span style="color:darkgreen"> Welcome to schuland</span>" />
+    <published>2022-05-16T17:19:11+08:00</published>
+  
+    <updated>2022-05-16T17:19:11+08:00</updated>
+  
+    <id>http://localhost:4000/sw_blog/posts/welcome-to-jekyll.extension/</id>
+    <content src="http://localhost:4000/sw_blog/posts/welcome-to-jekyll.extension/" />
+    <author>
+      <name>Schuwald</name>
+    </author>
+
+  
+    
+    <category term="Essay" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      It took me two days to build this blog with Jekyll, but less than two minutes for the name: schu-wald. Schu simply stands for me, because the pronunciation of schu in German is the same as a word in my name, and also the same as the pronunciation of tree in Chinese. German word Wald means forest. Me-Forest and Tree-Forest are exactly what schuwald means.
+
+I have to admit, it’s not a funny pun. ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title><span style="color:darkgreen">【Silicon Valley】【Dinfoyle】圣诞一日</span></title>
+    <link href="http://localhost:4000/sw_blog/posts/%E5%9C%A3%E8%AF%9E%E4%B8%80%E6%97%A5.extension/" rel="alternate" type="text/html" title="<span style="color:darkgreen">【Silicon Valley】【Dinfoyle】圣诞一日</span>" />
+    <published>2021-12-19T00:00:00+08:00</published>
+  
+    <updated>2021-12-19T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/sw_blog/posts/%E5%9C%A3%E8%AF%9E%E4%B8%80%E6%97%A5.extension/</id>
+    <content src="http://localhost:4000/sw_blog/posts/%E5%9C%A3%E8%AF%9E%E4%B8%80%E6%97%A5.extension/" />
+    <author>
+      <name>{"name"=>"森森"}</name>
+    </author>
+
+  
+    
+    <category term="Story" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+       我坚定地认为浪漫爱是一种精神疾病。
+
+
+
+玻璃窗上结起霜花，仿佛天使的手印。松树的清香丝丝缕缕渗入感官。壁炉里的柴火无止息地噼啪作响，温暖的光跃动而出。商店里放着流行了二十年的节日歌，浓厚饱满的女声唱着“圣诞节我想要的只有你”，结伴而行的路人脸上洋溢着比高飞狗还傻气的笑容。
+
+又到了一年一度Gilfoyle最厌恶的日子，圣诞节。一个女人做了场荒唐的梦，马槽中传出一声啼哭，于是耶稣先行上市，迅速垄断了信仰市场。尽管硅谷的圣诞氛围比加拿大收敛许多——在麦吉尔，年年都有扛着袋子在街上走的圣诞老人——Gilfoyle仍然对这庸俗的景象烦不胜烦。他索性拉上窗帘，去客厅打开冰箱拿了瓶啤酒。
+
+自从他和Dinesh两个人搬到这里之后，就再也没庆祝过圣诞节。每年的圣诞节，他们都各自对着电脑喝啤酒，时不时拌个嘴提神。有一年，Dinesh问他，加拿大的圣诞节是什么样的。
+
+我以为你比我更了解，他说。还...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title><span style="color:darkgreen">【RPS】【芝锋】掂心知意</span></title>
+    <link href="http://localhost:4000/sw_blog/posts/%E6%8E%82%E5%BF%83%E7%9F%A5%E6%84%8F.extension-Kopie/" rel="alternate" type="text/html" title="<span style="color:darkgreen">【RPS】【芝锋】掂心知意</span>" />
+    <published>2021-09-30T00:00:00+08:00</published>
+  
+    <updated>2021-09-30T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/sw_blog/posts/%E6%8E%82%E5%BF%83%E7%9F%A5%E6%84%8F.extension-Kopie/</id>
+    <content src="http://localhost:4000/sw_blog/posts/%E6%8E%82%E5%BF%83%E7%9F%A5%E6%84%8F.extension-Kopie/" />
+    <author>
+      <name>{"name"=>"森森"}</name>
+    </author>
+
+  
+    
+    <category term="Story" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+       有时候，他梦上世纪的旧人旧事。
+
+
+
+高颅顶，蓬松发。皮肤是好润的白，眉眼是好纯的黑。本来分明的两种颜色，描到她骨上，却生出几分难言的艳丽。她笑笑地望过来，那张桃子脸上终于浮现一寸与年龄相衬的稚拙。好多人在睇那色泽饱满的笑，而她只望他。
+
+于是他也礼貌地笑一笑，走过去：“Ceci你好，合作愉快。”
+“你在我就好愉快。”她说。听上去是真心喜悦。
+
+他没话说，只好继续挂笑。即使从小就被长枪短炮包围，靓仔二字听到耳朵生茧，私生活风吹草动亦被所有人知，他也还是不爱回应这些关注。
+
+“呐Ceci，这就是你的不对了，Nic一出现就绕着他转。你和他只共一场戏，手都不拖，我们还要一起拍好久！”Eason冒出来：“不过，你们同年的后生，是比较有话说哦？”
+她皱皱脸：“昨日刚拍第八夜啊Alan，我共你感情破裂了。不敢信Nic也十七岁，他都好稳重，像大哥哥。”
+
+“他啊，只是平时话少，要说稳重……”这头...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
