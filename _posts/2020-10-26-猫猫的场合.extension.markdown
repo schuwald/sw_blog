@@ -1,8 +1,8 @@
 ---
-title: <span style="color:darkgreen">【世初】【宗律】猫猫的场合</span>
+layout: post
+title: 【世初】【宗律】猫猫的场合
 date: 2020-10-26
-author:
-  name: 森森
+author: 森森
 categories: "Story"
 tags: "同人"
 ---
