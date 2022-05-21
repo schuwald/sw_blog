@@ -4,7 +4,6 @@ title: Welcome to schuland
 date:   2022-05-16 17:19:11 +0800
 autohor: 森森
 categories: "Essay"
-pin: true
 ---
 
 
@@ -21,7 +20,6 @@ I think we are all pine trees in a dense forest. Although sometimes the night is
 Welcome to schuwald and listen to my sound.
 
 
-*The illustrator of the avatar and favicon is my talented friend: [Fong]( https://b23.tv/bNE9Xij "Fong")*
 
 
 
