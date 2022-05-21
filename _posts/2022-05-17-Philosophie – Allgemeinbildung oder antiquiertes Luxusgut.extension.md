@@ -1,8 +1,14 @@
 ---
-title: <span style="color:darkgreen">Philosophie - Allgemeinbildung oder antiquiertes Luxusgut</span>
+layout: post
+title: Philosophie - Allgemeinbildung oder antiquiertes Luxusgut
 date: 2022-05-17
+author: Schu
 categories: "Essay"
 ---
+
+*<span style="color:grey"> C2 Übungsarbeit</span>*
+__________________________________
+
 
 Ihr Artikel zum Thema „Philosophie – Allgemeinbildung oder antiquiertes Luxusgut“ ist bei mir auf großes Interesse gestoßen. Deswegen würde ich gerne meine Meinung zur einigen Aussagen Ihres Artikels mitteilen.
 
