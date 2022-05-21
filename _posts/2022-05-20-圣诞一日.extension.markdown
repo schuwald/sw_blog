@@ -1,8 +1,8 @@
 ---
-title: <span style="color:darkgreen">【Silicon Valley】【Dinfoyle】圣诞一日</span>
+layout: post
+title: 【Silicon Valley】【Dinfoyle】圣诞一日
 date: 2021-12-19
-author:
-  name: 森森
+author: 森森
 categories: "Story"
 tags: "同人"
 ---
