@@ -1,6 +1,8 @@
 ---
-title:  <span style="color:darkgreen"> Welcome to schuland</span>
+layout: page
+title: Welcome to schuland
 date:   2022-05-16 17:19:11 +0800
+autohor: 森森
 categories: "Essay"
 pin: true
 ---
